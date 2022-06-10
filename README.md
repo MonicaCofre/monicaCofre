@@ -19,9 +19,11 @@ Me presento, yo soy Mónica Cofré y aquí listare algunos intereses para que no
 
 ## Me puedes contactar por: 📫
 
-      [LinkdIn](linkedin.com/in/mónica-cofré-909628104)
-      [mail](cofrev@gmail.com)
-      mail: cofrev@gmail.com
+[LinkdIn](https://www.linkedin.com/in/m%C3%B3nica-cofr%C3%A9-909628104/)
+
+mail: cofrev@gmail.com
+
+
       
 
 ## Dato curioso: ⚡ 
