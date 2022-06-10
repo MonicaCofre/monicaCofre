@@ -1,12 +1,3 @@
-# README MCV
-
-## Índice
-* [1. Presentación](#Hola)
-* [2. Contacto](#Me-puedes-contactar)
-* [3. Dato curioso](#Dato-curioso)
-* [4. Skills](#Skills)
-
-
 ## Hola, Hola 👋
 
 Ya puedo decir que soy FrontEnd Developer Jr
@@ -22,8 +13,6 @@ Me presento, yo soy Mónica Cofré y aquí listare algunos intereses para que no
 [LinkdIn](https://www.linkedin.com/in/m%C3%B3nica-cofr%C3%A9-909628104/)
 
 mail: cofrev@gmail.com
-
-
       
 
 ## Dato curioso: ⚡ 
