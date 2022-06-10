@@ -36,7 +36,9 @@ Soft Skills:
 
 Hards Skills:
 
-![img] (https://res.cloudinary.com/dkcufj8t5/image/upload/c_scale,h_50/v1654890320/iconos%20prog/GitHub_i6wjzl.png)
+<img src="https://res.cloudinary.com/dkcufj8t5/image/upload/c_scale,h_50/v1654890320/iconos%20prog/GitHub_i6wjzl.png" /> <img src="https://res.cloudinary.com/dkcufj8t5/image/upload/v1654890320/iconos%20prog/trello_jmg1ib.png" /> <img src="https://res.cloudinary.com/dkcufj8t5/image/upload/v1654890320/iconos%20prog/gitBash_bdyci5.png" />
+<img src="https://res.cloudinary.com/dkcufj8t5/image/upload/v1654890319/iconos%20prog/css_irgezk.png" /> <img src="https://res.cloudinary.com/dkcufj8t5/image/upload/v1654890320/iconos%20prog/html_ri1cg9.png" /> <img src="https://res.cloudinary.com/dkcufj8t5/image/upload/v1654890320/iconos%20prog/js_f1f07e.png" />
+<img src="https://res.cloudinary.com/dkcufj8t5/image/upload/v1654890319/iconos%20prog/figma_zr3vei.png" /> <img src="https://res.cloudinary.com/dkcufj8t5/image/upload/v1654890319/iconos%20prog/visual_akpz53.png" /> <img src="https://res.cloudinary.com/dkcufj8t5/image/upload/v1654890319/iconos%20prog/Firebase_evcgqg.png" />
 
 
 
