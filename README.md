@@ -17,17 +17,17 @@ Me presento, yo soy Mónica Cofré y aquí listare algunos intereses para que no
 - 💬 Pregúntame por cualquier cosa, siempre responderé
 
 
-## - Me puedes contactar por: 📫
+## Me puedes contactar por: 📫
       LinkdIn: linkedin.com/in/mónica-cofré-909628104
       mail: cofrev@gmail.com
       
 
-## - Dato curioso: ⚡ 
+## Dato curioso: ⚡ 
 - 🤔 Busco ayuda con todo, para así siempre estar aprendiendo
 - 👯 Busco aportar en algun equipo Tech
 
 
-## - Skills
+## Skills
 Soft Skills:
 - Proactividad.
 - Responsabilidad.
